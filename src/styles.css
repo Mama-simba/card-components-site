@@ -1,0 +1,23 @@
+/*FOOTER*/
+
+.attribution {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.attribution a {
+  text-decoration: none;
+  color: #0e6168;
+}
+
+.attribution a:hover {
+  color: #e28624;
+}
+
+.attribution i {
+  font-size: 18px;
+}
+
+.attribution i:hover {
+  font-size: 20px;
+}
